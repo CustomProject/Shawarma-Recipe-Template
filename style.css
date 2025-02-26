@@ -1,0 +1,216 @@
+.Shawarmalogo{
+    height: 300px;
+    width: 400px;
+}
+.Shawarmalogo-position{
+    position:relative;
+    left: 560px;
+    top: 40px;
+}
+.Shawarmalogo-design{
+    background-color: #ffffff;
+    border: 10px solid #D2B48C;
+    outline: 13px solid #654321;
+}
+
+.logo{
+    height: 380px;
+    width: 1530px;
+    background-color: #BE3144;
+    position: relative;
+    left: -20px;
+    top: -30px;
+    border-bottom: 12px solid #9c3847;
+}
+
+.class-title{
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title{
+    text-align: center;
+    color: #f1563e;
+    text-shadow: 0px 0px 9px #000000, 0px 0px 9px #ff2200;
+    padding-top: 25px;
+}
+
+.text{
+    text-align: center;
+    color: rgb(245, 233, 233);
+    text-shadow: 2px 1px 1px #000000;
+}
+
+.title-text-style{
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title-container{
+    background-color: #a65143;
+}
+
+.title-container-position{
+    height: 130px;
+    width: 1530px;
+    background-color: #8e2230;
+    position: relative;
+    left: -20px;
+    top: -51px;
+    border-bottom: 12px solid #9c3847;
+}
+
+.ingredients-title{
+    padding-left: 30px;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 3px 1px 4px black;
+}
+
+.ingredients-title-style{
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.chicken{
+    color: #A94A4A;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #000000;
+    padding-left: 20px;
+}
+
+.chicken-title-style{
+    font-family: "Prompt", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.shawarma-chicken-style{
+    color: white;
+    display: inline-block;
+    background-color: #A94A4A;
+    border: 5px solid #000000;
+
+
+    font-family: "Prompt", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.shawarma-design > .shawarma-sauce{
+    color: #FFF6DA;
+    text-shadow: 1px 1px 1px #000000;
+
+    font-family: "Prompt", serif;
+    font-weight: 600;
+    font-style: normal;
+
+    padding-left: 20px;
+}
+.shawarma-design > .shawarma-sauce > .first-optional{
+    color: #FA163F;
+
+    font-family: "Prompt", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.shawarma-assembly{
+    color: #889E73;
+    text-shadow: 1px 1px 1px #000000;
+
+    font-family: "Prompt", serif;
+    font-weight: 600;
+    font-style: normal;
+
+    padding-left: 20px;
+}
+
+.shawarma-assembly > .first-optional{
+    color: #FA163F;
+
+    font-family: "Prompt", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.instructions-title{
+    padding-left: 30px;
+    color: #FF9100;
+    text-transform: uppercase;
+    text-shadow: 3px 1px 4px black;
+}
+.instructions-title-style{
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.instructions > *{
+    color: white;
+}
+
+.first-instruction-title{
+    color: #A94A4A;
+    text-shadow: 0px 0px 3px black;
+    text-transform: uppercase;
+}
+
+.first-instruction{
+    background-color: #A94A4A;
+    display: inline-block;
+    border: 3px solid #8a4040;
+
+}
+
+.instructions-style{
+    font-family: "Prompt", serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.instructions-style-titles{
+    font-family: "Prompt", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.second-instruction-title{
+    color: #FFF6DA;
+    text-shadow: 1px 0px 3px black;
+
+    text-transform: uppercase;
+}
+
+.second-instruction{
+    background-color: #ada99a;
+    display: inline-block;
+    border: 3px solid #FFF6DA;
+}
+
+.three-instruction-title{
+    color: #889E73;
+    text-shadow: 1px 0px 3px black;
+
+    text-transform: uppercase;
+}
+
+.three-instruction{
+    background-color: #3d4e2d;
+    display: inline-block;
+    border: 3px ridge #889E73;
+}
+
+footer{
+    color: white;
+    text-shadow: 0px 0px 9px white;
+
+    font-family: "Prompt", serif;
+    font-weight: 300;
+    font-style: italic;
+
+    text-align: center;
+}
